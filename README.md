@@ -1,3 +1,3 @@
 # Data-Analytics-Assignment
-Please find the enclosed PPT wherein I have submitted the Q&amp;A related to Data and Big Data
+Please find the assignments related to 'Introduction to Data','Introduction to Data Analytics', 'Statistics','Linear Regression', and 'Two way Anova Test
 1.Introduction to Data
